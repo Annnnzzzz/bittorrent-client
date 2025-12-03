@@ -32,7 +32,7 @@ $ brew install openssl cmake
 ## 🔧 Инструкция по сборке
 1. Клонирование репозитория 
 ```bash
-git clone https://github.com/ваш-логин/torrent-client.git
+git clone https://github.com/Annnnzzzz/bittorrent-client
 cd torrent-client
 ```
 2. Создание директории для сборки
