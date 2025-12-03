@@ -4,7 +4,6 @@ cmake-build-*/
 *.a
 *.so
 *.dylib
-torrent-client-prototype
 *.exe
 .vscode/
 .idea/
